@@ -69,7 +69,7 @@ education:
           - Bullet point
           - Bullet point
 
-experiences:
+software engineering experience:
     - role: Software Development Engineering Intern
       time: June 2017 - August 2017
       company: Amazon, Seattle, WA
@@ -97,10 +97,59 @@ experiences:
         - Found restaurants under conditions such as walking only, walking and bus, and walking and train, utilizing iGeolise API, improving time saved for users by 80%.
         - Implemented markers to indicate current location and find restaurants within time radius using Google Maps API, saving users from opening X - 1 further pages on Google Maps.
 
+teaching experience:
+    - role: Undergraduate TA for CS1660 (Introduction to Computer Security Systems)
+      time: January 2018 - May 2018
+      company: Providence, RI
+      details: |
+      I was one of 6 TAs with around 70 students enrolled. I loved how the class emphasized the mindset of breaking projects (as opposed to just building them) to get a better understanding of vulnerabilities that could creep into a system.
+      - Led TA hours for 2 hours per week to explain security concepts and guide students on homework and projects.
+      - Graded 10-15 homeworks and projects per week
+      - Demonstrated how cookies are used in modern websites using Chrome inspect browser tool and JavaScript.
+
+    - role: Undergraduate TA for CS130/1300 (User Interfaces and User Experiences)
+      time: August 2017 - December 2017
+      company: Providence, RI
+      details: |
+      I was one of 18 TAs with around 220 students enrolled. We iterated on the eye tracking assignment we introduced in 2016 to incorporate student-written code to retrace eye gazes on an interface.
+      - Ran 5 labs for 20 students per session to learn ReactJS, Proto.io, Balsamiq, and Invision; held office hours for A/B testing and eye tracking assignments to explain concepts and debug student code.
+      - Collaborated in writing JSON to CSV log file converter in Java and TheEyeTribe API, reducing development time for 150+ students (especially non-CS students) in coding eye tracking gaze visualizer.
+
+    - role: Undergraduate TA for CS2951-O (Foundations of Prescriptive Analytics)
+      time: January 2017 - May 2017
+      company: Providence, RI
+      details: |
+      I was one of 2 TAs with around 25 students enrolled. This was the first offering of the course at Brown.
+      - Developed automated leaderboard script with Bash, Python and HTML
+      - Managed course website by automating leaderboard updates using cronjobs
+      - This script untared students' submissions and uploaded their results to course website, allowing students to compare their results against other students' results
+
+    - role: Undergraduate TA for CS130/1300 (User Interfaces and User Experiences)
+      time: August 2016 - December 2016
+      company: Providence, RI
+      details: |
+      I was one of 18 TAs with around 150 students enrolled. I helped develop a new eye tracking assignment, which had students use The Eye Tribe eye trackers to understand how users would gaze up interfaces that they created.
+      - Held office hours one hour every other week
+      - Ran labs for students to learn design software for use in projects
+      - Designed new eye tracking assignment that has students conduct user tests for their interfaces with The Eye Tribe eye trackers
+      - Wrote instructions for eye tracker setup and use with Ogama software to record gaze interactions
+      - Answered and clarified homework and conceptual questions on Piazza, the class’s online question and answer forum
+      - Graded and provided feedback on students’ assignments
+      - Presided over a crits session with students, where I helped facilitate discussion. Students had the opportunity to present an interface and ask for feedback, and other students would make constructive comments regarding the presenting students' work.
+
+      - role: Undergraduate TA for CS1450 (Probability and Computing)
+        time: January 2016 - May 2016
+        company: Providence, RI
+        details: |
+        This course taught students probability and statistics fundamentals with a mix of written assignments and MATLAB projects.
+        - Held office hours 2 hours a week
+        - Clarified concepts from lecture and guide students regarding homework
+        - Graded and provided feedback for students on assignments
+
 projects:
     title: mStats
     link: youtu.be/4wFHXQOwaXA
-    intro: 
+    intro:
       This was for CS1951-A (Introduction to Data Science) at Brown. I worked with Michael Xu and Hilery Chao to create a suite of visualizations that analyze user's Facebook messages, using their own personal "big data."
       - Extracted raw messages from HTML files and counted Facebook messages, visualizing frequencies in Python and D3.js to compare frequency of 70,000 messages sent during daytime versus nighttime.
       - Developed webpage in Flask to run Python scripts that parsed messages and displayed 8 D3.js visualizations.
