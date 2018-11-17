@@ -94,6 +94,7 @@ experiences:
       company: Providence, RI
       details: |
         CS1660 - Introduction to Computer Security Systems |
+
         I was one of 6 TAs with around 70 students enrolled. I loved how the class emphasized the mindset of breaking projects (as opposed to just building them) to get a better understanding of vulnerabilities that could creep into a system.
         - Led TA hours for 2 hours per week to explain security concepts and guide students on homework and projects.
         - Graded 10-15 homeworks and projects per week
@@ -104,6 +105,7 @@ experiences:
       company: Providence, RI
       details: |
         CS130/1300 - User Interfaces and User Experiences |
+
         I was one of 18 TAs with around 220 students enrolled. We iterated on the eye tracking assignment we introduced in 2016 to incorporate student-written code to retrace eye gazes on an interface.
         - Ran 5 labs for 20 students per session to learn ReactJS, Proto.io, Balsamiq, and Invision; held office hours for A/B testing and eye tracking assignments to explain concepts and debug student code.
         - Collaborated in writing JSON to CSV log file converter in Java and TheEyeTribe API, reducing development time for 150+ students (especially non-CS students) in coding eye tracking gaze visualizer.
@@ -113,6 +115,7 @@ experiences:
       company: Providence, RI
       details: |
         CS2951-O - Foundations of Prescriptive Analytics |
+
         I was one of 2 TAs with around 25 students enrolled. This was the first offering of the course at Brown.
         - Developed automated leaderboard script with Bash, Python and HTML
         - Managed course website by automating leaderboard updates using cronjobs
