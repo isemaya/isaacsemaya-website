@@ -137,14 +137,15 @@ experiences:
         - This script untared students' submissions and uploaded their results to course website, allowing students to compare their results against other students' results
 
 projects:
-    title: mStats
-    link: youtu.be/4wFHXQOwaXA
-    intro:
-      This was for CS1951-A (Introduction to Data Science) at Brown. I worked with Michael Xu and Hilery Chao to create a suite of visualizations that analyze user's Facebook messages, using their own personal "big data."
-      - Extracted raw messages from HTML files and counted Facebook messages, visualizing frequencies in Python and D3.js to compare frequency of 70,000 messages sent during daytime versus nighttime.
-      - Developed webpage in Flask to run Python scripts that parsed messages and displayed 8 D3.js visualizations.
-      - Mapped messages as "bag of words" to train machine learning model (using the Random Forest algorithm) to
-   predict 1 friend out of 500+ most associated with contents of message.
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title:
+        link:
+        tagline:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
