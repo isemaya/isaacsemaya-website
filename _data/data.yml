@@ -121,12 +121,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: mStats
-        link: "youtu.be/4wFHXQOwaXA"
+        link: "https://youtu.be/4wFHXQOwaXA"
         tagline: "This was for CS1951-A (Introduction to Data Science) at Brown. I worked with Michael Xu and Hilery Chao to create a suite of visualizations that analyze user's Facebook messages, using their own personal 'big data.'"
 
 skills:
