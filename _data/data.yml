@@ -120,7 +120,7 @@ experiences:
 
 projects:
     title: Projects
-    intro:
+    intro: |
     assignments:
       - title: mStats
         link: "youtu.be/4wFHXQOwaXA"
