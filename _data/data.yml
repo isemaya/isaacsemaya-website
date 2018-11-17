@@ -60,27 +60,6 @@ education:
         During my time at Brown, I enjoyed TAing various courses in the Computer Science department, such as UI/UX, Security, and Probability and Computing.
 
         When I wasn't working on CS projects and homeworks, I enjoyed hiking with the Brown Outing Club and cycling on the East Bay Bike Path.
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 98%
-
-      - name: Java
-        level: 98%
-
-      - name: JavaScript
-        level: 70%
-
-      - name: HTML5 & CSS
-        level: 70%
-
-      - name: D3.js
-        level: 60%
-
-      - name: C
-        level: 50%
 
 experiences:
     - role: Software Development Engineering Intern
@@ -110,27 +89,30 @@ experiences:
         - Found restaurants under conditions such as walking only, walking and bus, and walking and train, utilizing iGeolise API, improving time saved for users by 80%.
         - Implemented markers to indicate current location and find restaurants within time radius using Google Maps API, saving users from opening X - 1 further pages on Google Maps.
 
-    - role: Undergraduate TA for CS1660 (Introduction to Computer Security Systems)
+    - role: Undergraduate TA for CS1660
       time: January 2018 - May 2018
       company: Providence, RI
       details: |
+        CS1660 - Introduction to Computer Security Systems
         I was one of 6 TAs with around 70 students enrolled. I loved how the class emphasized the mindset of breaking projects (as opposed to just building them) to get a better understanding of vulnerabilities that could creep into a system.
         - Led TA hours for 2 hours per week to explain security concepts and guide students on homework and projects.
         - Graded 10-15 homeworks and projects per week
         - Demonstrated how cookies are used in modern websites using Chrome inspect browser tool and JavaScript.
 
-    - role: Undergraduate TA for CS130/1300 (User Interfaces and User Experiences)
+    - role: Undergraduate TA for CS130/1300
       time: August 2017 - December 2017
       company: Providence, RI
       details: |
+        CS130/1300 - User Interfaces and User Experiences
         I was one of 18 TAs with around 220 students enrolled. We iterated on the eye tracking assignment we introduced in 2016 to incorporate student-written code to retrace eye gazes on an interface.
         - Ran 5 labs for 20 students per session to learn ReactJS, Proto.io, Balsamiq, and Invision; held office hours for A/B testing and eye tracking assignments to explain concepts and debug student code.
         - Collaborated in writing JSON to CSV log file converter in Java and TheEyeTribe API, reducing development time for 150+ students (especially non-CS students) in coding eye tracking gaze visualizer.
 
-    - role: Undergraduate TA for CS2951-O (Foundations of Prescriptive Analytics)
+    - role: Undergraduate TA for CS2951-O
       time: January 2017 - May 2017
       company: Providence, RI
       details: |
+        CS2951-O - Foundations of Prescriptive Analytics
         I was one of 2 TAs with around 25 students enrolled. This was the first offering of the course at Brown.
         - Developed automated leaderboard script with Bash, Python and HTML
         - Managed course website by automating leaderboard updates using cronjobs
@@ -146,6 +128,29 @@ projects:
       - title:
         link:
         tagline:
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Java
+        level: 98%
+
+      - name: JavaScript
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 70%
+
+      - name: D3.js
+        level: 60%
+
+      - name: C
+        level: 50%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
