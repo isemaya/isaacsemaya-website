@@ -55,7 +55,7 @@ career-profile:
 education:
     - degree: ScB in Computer Science
       university: Brown University
-      time: 2014 - 2018
+      time: August 2014 - May 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,7 +64,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
+software engineering experience:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
