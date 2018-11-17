@@ -1,5 +1,10 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
+    {% if sidebar.resume %}
+    <li class="resume">
+      <a href="{{ site.baseurl }}/Isaac_Semaya_Resume.pdf">{{ sidebar.resume }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
