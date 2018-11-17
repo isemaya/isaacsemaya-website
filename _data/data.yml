@@ -48,7 +48,7 @@ career-profile:
     summary: |
       Hi there! My name is Isaac and I'm a Software Engineer who enjoys UI/UX, security, and making software easier to use for people.
 
-      I was born in the US, but grew up mostly in Tokyo, Japan and London, United Kingdom. I went to Brown University and graduated in May 2018 with a ScB degree in Computer Science.
+      I was born in the United States, but grew up mostly in Tokyo, Japan and London, United Kingdom. I went to Brown University and graduated in May 2018 with a ScB degree in Computer Science.
 
       I'm currently based in San Francisco - I'm currently seeking new Software Engineering opportunities.
 
@@ -99,30 +99,15 @@ experiences:
 
 projects:
     title: mStats
-    intro:
-      Suite of visualizations that analyze user's Facebook messages, using their own personal "big data."
-      -
+    link: youtu.be/4wFHXQOwaXA
+    intro: 
+      This was for CS1951-A (Introduction to Data Science) at Brown. I worked with Michael Xu and Hilery Chao to create a suite of visualizations that analyze user's Facebook messages, using their own personal "big data."
+      - Extracted raw messages from HTML files and counted Facebook messages, visualizing frequencies in Python and D3.js to compare frequency of 70,000 messages sent during daytime versus nighttime.
+      - Developed webpage in Flask to run Python scripts that parsed messages and displayed 8 D3.js visualizations.
+      - Mapped messages as "bag of words" to train machine learning model (using the Random Forest algorithm) to
+   predict 1 friend out of 500+ most associated with contents of message.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
