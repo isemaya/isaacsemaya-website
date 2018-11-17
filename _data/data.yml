@@ -1,0 +1,159 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Isaac Semaya
+    tagline: Software Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: isaac_semaya@alumni.brown.edu
+    phone: 401 340 6446
+    website: blog.webjeda.com #do not add http://
+    linkedin: isemaya
+    github: isemaya
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Japanese
+        level: Native
+
+      - idiom: Spanish
+        level: Intermediate
+
+    interests:
+      - item: Running
+        link:
+
+      - item: Cycling
+        link:
+
+      - item: Learning new languages
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+
+      Second paragraph if required.
+
+education:
+    - degree: ScB in Computer Science
+      university: Brown University
+      time: 2014 - 2018
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Software Development Engineering Intern
+      time: June 2017 - August 2017
+      company: Amazon, Seattle, WA
+      details: |
+        I worked on the Amazon Flex team, an app that lets ordinary driver deliver packages.
+          - Added device information such as device location, App Version to existing remote configuration JSON file in Android Studio to prevent redundant remote configuration files from being created, saving $700.
+          - Designed criteria evaluator to identify match criteria and characteristics in Java so different types of criteria were systematically evaluated in modular fashion and enabling support for new criteria over 65% faster.
+          - Engineered device eligibility manager that applied criteria information specified in remote configuration file
+to produce "eligible" or "ineligible" output for devices in Java.
+          - Crafted UI alert blocking App usage if device did not meet eligibility criteria and listed all of reasons for device
+ineligibility in JavaScript, HTML5, and CSS3 saving $2,500 in patch development time.
+
+    - role: QA Automation Development Intern
+      time: May 2016 - August 2016
+      company: Onshape, Cambridge, MA
+      details: |
+          - Increased coverage of API tests regarding document search filters and account storage capacity by 10% using
+Mocha testing framework in JavaScript and Node.js.
+          - Refactored CAD shape generations to use API calls with JavaScript, AngularJS, Protractor, and Selenium,
+decreasing average test time to be below test timeout of 0.1 seconds.
+          - Restructured drop-down menus to remove ambiguity using JavaScript, AngularJS, Protractor, and Selenium.
+          - Investigated feasibility of feature within Protractor framework using JavaScript, AngularJS, and Selenium,
+concluding that refactor was not worthwhile, saving company more than $750 in development time​.
+
+    - role: Software Engineering Intern
+      time: August 2013
+      company: OpenTable, London, United Kingdom
+      details: |
+        - Searched for restaurants within time defined radius using JavaScript, saving 5 - 6 steps in location process.
+        - Found restaurants under conditions such as walking only, walking and bus, and walking and train, utilizing
+iGeolise API, improving time saved for users by 80%.
+        - Implemented markers to indicate current location and find restaurants within time radius using Google Maps
+API, saving users from opening X - 1 further pages on Google Maps.
+
+projects:
+    title: mStats
+    intro:
+      Suite of visualizations that analyze user's Facebook messages, using their own personal "big data."
+      -
+
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
