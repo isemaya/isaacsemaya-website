@@ -96,7 +96,7 @@ software engineering experience:
         - Searched for restaurants within time defined radius using JavaScript, saving 5 - 6 steps in location process.
         - Found restaurants under conditions such as walking only, walking and bus, and walking and train, utilizing iGeolise API, improving time saved for users by 80%.
         - Implemented markers to indicate current location and find restaurants within time radius using Google Maps API, saving users from opening X - 1 further pages on Google Maps.
-        
+
 projects:
     title: mStats
     link: youtu.be/4wFHXQOwaXA
