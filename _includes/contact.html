@@ -24,6 +24,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.angellist %}
+    <li class="angellist"><i class="fas fa-angellist"></i>
+      <a href="https://angel.co/{{ sidebar.angellist }}" target="_blank">{{ sidebar.angellist }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
       <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
