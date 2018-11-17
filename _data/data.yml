@@ -9,15 +9,15 @@ sidebar:
     # Profile information
     name: Isaac Semaya
     tagline: Software Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: isaac_semaya@alumni.brown.edu
     phone: 401 340 6446
-    website: blog.webjeda.com #do not add http://
+    website: isaacsemaya.com #do not add http://
     linkedin: isemaya
     github: isemaya
-    gitlab:
+    angellist: isemaya
     bitbucket:
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -46,13 +46,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Hi there! My name is Isaac and I'm a Software Engineer who enjoys UI/UX, security, and making software easier to use for people.
 
-      Second paragraph if required.
+      I was born in the US, but grew up mostly in Tokyo, Japan and London, United Kingdom. I went to Brown University and graduated in May 2018 with a ScB degree in Computer Science.
+
+      I'm currently based in San Francisco - I'm currently seeking new Software Engineering opportunities.
 
 education:
     - degree: ScB in Computer Science
