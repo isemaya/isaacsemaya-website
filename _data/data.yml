@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -60,6 +60,28 @@ education:
         During my time at Brown, I enjoyed TAing various courses in the Computer Science department, such as UI/UX, Security, and Probability and Computing.
 
         When I wasn't working on CS projects and homeworks, I enjoyed hiking with the Brown Outing Club and cycling on the East Bay Bike Path.
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Java
+        level: 98%
+
+      - name: JavaScript
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 70%
+
+      - name: D3.js
+        level: 60%
+
+      - name: C
+        level: 50%
+
 experiences:
     - role: Software Development Engineering Intern
       time: June 2017 - August 2017
@@ -121,25 +143,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 
+        link:
+        tagline:
 
 publications:
     title:
@@ -149,27 +155,6 @@ publications:
         authors:
         conference:
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 98%
-
-      - name: Java
-        level: 98%
-
-      - name: JavaScript
-        level: 70%
-
-      - name: HTML5 & CSS
-        level: 70%
-
-      - name: D3.js
-        level: 60%
-
-      - name: C
-        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
