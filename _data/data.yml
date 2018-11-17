@@ -120,14 +120,15 @@ experiences:
         - Developed automated leaderboard script with Bash, Python and HTML
         - Managed course website by automating leaderboard updates using cronjobs
         - This script untared students' submissions and uploaded their results to course website, allowing students to compare their results against other students' results
-      - role: Undergraduate TA for CS1450 (Probability and Computing)
-        time: January 2016 - May 2016
-        company: Providence, RI
-        details: |
-          This course taught students probability and statistics fundamentals with a mix of written assignments and MATLAB projects.
-          - Held office hours 2 hours a week
-          - Clarified concepts from lecture and guide students regarding homework
-          - Graded and provided feedback for students on assignments
+
+    - role: Undergraduate TA for CS1450 (Probability and Computing)
+      time: January 2016 - May 2016
+      company: Providence, RI
+      details: |
+        This course taught students probability and statistics fundamentals with a mix of written assignments and MATLAB projects.
+        - Held office hours 2 hours a week
+        - Clarified concepts from lecture and guide students regarding homework
+        - Graded and provided feedback for students on assignments
 projects:
     title: Projects
     intro: >
