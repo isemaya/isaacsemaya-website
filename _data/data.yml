@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hi there! My name is Isaac and I'm a Software Engineer who enjoys UI/UX, security, and making software easier to use for people.
+      Hi there! My name is Isaac and I'm a Software Engineer at Square who enjoys UI/UX, security, and making software easier to use for people.
 
       I was born in the United States, but grew up mostly in Tokyo, Japan and London, United Kingdom. I went to Brown University and graduated in May 2018 with a ScB degree in Computer Science.
 
@@ -64,6 +64,11 @@ education:
         When I wasn't working on CS projects and homeworks, I enjoyed hiking with the Brown Outing Club and cycling on the East Bay Bike Path.
 
 experiences:
+      - role: Software Engineer
+        time: January 2019 - present
+        company: Square, San Francisco, CA
+        details: |
+
     - role: Software Development Engineering Intern
       time: June 2017 - August 2017
       company: Amazon, Seattle, WA
