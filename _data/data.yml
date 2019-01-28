@@ -64,11 +64,11 @@ education:
         When I wasn't working on CS projects and homeworks, I enjoyed hiking with the Brown Outing Club and cycling on the East Bay Bike Path.
 
 experiences:
-      - role: Software Engineer
-        time: January 2019 - present
-        company: Square, San Francisco, CA
-        details: |
-          - Just getting started! :)
+    - role: Software Engineer
+      time: January 2019 - present
+      company: Square, San Francisco, CA
+      details: |
+        - Just getting started! :)
 
     - role: Software Development Engineering Intern
       time: June 2017 - August 2017
